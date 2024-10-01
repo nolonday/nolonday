@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red;">Hi there, I'm <a href="#" target="_blank" style="color: inherit;">Daniil</a></h1>
+<h1 align="center">Hi there, I'm <a href="#" target="_blank" style="color: inherit;">Daniil</a></h1>
 <h3 align="center">Senior programmer of the future...</h3>
 
 - 🌱 I’m learning **Python, Web, C#, Java**
