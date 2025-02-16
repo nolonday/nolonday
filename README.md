@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nolonday1337@gmail.com**
 
-- 🌍 I speak Russian
+- 🌍 I speak Russian, English
 
 ### Social:
 <p align="left">
