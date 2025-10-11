@@ -12,15 +12,15 @@
 ---
 
 <h3 align="center" style="font-size: 26px;">✦ 𝙎𝙤𝙘𝙞𝙖𝙡</h3>
-<p align="center" style="filter: grayscale(100%); margin-top: 12px;">
+<p align="center" style="margin-top: 12px;">
   <a href="https://t.me/nolonday" target="_blank" style="margin: 0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="48" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="48" height="48" style="filter: invert(100%);" />
   </a>
   <a href="https://vk.com/nolonday" target="_blank" style="margin: 0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vk.svg" alt="VK" width="48" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vk.svg" alt="VK" width="48" height="48" style="filter: invert(100%);" />
   </a>
   <a href="https://github.com/nolonday" target="_blank" style="margin: 0 14px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="48" height="48" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="48" height="48" style="filter: invert(100%);" />
   </a>
 </p>
 
@@ -28,9 +28,9 @@
 
 <h3 align="center" style="font-size: 26px;">✧ 𝙈𝙮 𝙫𝙞𝙨𝙪𝙖𝙡 𝙨𝙩𝙤𝙧𝙮</h3>
 <p align="center">
-  <img src="https://YOUR_PHOTO_LINK_1.jpg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
-  <img src="https://YOUR_PHOTO_LINK_2.jpg" alt="nolonday portrait 2" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
-  <img src="https://YOUR_PHOTO_LINK_3.jpg" alt="nolonday portrait 3" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://imgur.com/a/dcuUmpH" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://imgur.com/ykrnITx" alt="nolonday portrait 2" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://imgur.com/iUq9r5l" alt="nolonday portrait 3" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
 </p>
 
 ---
