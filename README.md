@@ -29,8 +29,8 @@
 <h3 align="center" style="font-size: 26px;">✧ 𝙈𝙮 𝙫𝙞𝙨𝙪𝙖𝙡 𝙨𝙩𝙤𝙧𝙮</h3>
 <p align="center">
   <img src="https://i.imgur.com/iUq9r5l.jpeg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
-  <img src="https://i.imgur.com/ykrnITx" alt="nolonday portrait 2" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
-  <img src="https://i.imgur.com/iUq9r5l" alt="nolonday portrait 3" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/sL5zSnv.jpeg" alt="nolonday portrait 2" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/SGQx8ot.jpeg" alt="nolonday portrait 3" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
 </p>
 
 ---
