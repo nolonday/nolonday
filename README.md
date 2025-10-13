@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 48px; color: #bfbfbf;">
   𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢  
-  <a href="https://github.com/nolonday" target="_blank" style="color: #bfbfbf; text-decoration: underline dotted;">𝙣𝙤𝙡𝙤𝙣𝙙𝙖𝙮</a>
+  <a href="https://github.com/nolonday" target="_blank" style="color: #bfbfbf; text-decoration: underline dotted; text-underline-offset: 6px;">𝙣𝙤𝙡𝙤𝙣𝙙𝙖𝙮</a>
 </h1>
 
 <h3 align="center" style="font-size: 28px; font-weight: 400; color: #a6a6a6;">
@@ -27,7 +27,7 @@
 ---
 
 <p align="center" style="font-size: 20px; color: #a6a6a6;">
-☕ 𝙆𝙚𝙚𝙥𝙚𝙧 → <a href="https://t.me/nolonday" target="_blank" style="color: #bfbfbf; text-decoration: underline dotted;">t.me/nolonday</a>
+☕ 𝙆𝙚𝙚𝙥𝙚𝙧 → <a href="https://t.me/nolonday" target="_blank" style="color: #bfbfbf; text-decoration: underline dotted; text-underline-offset: 4px;">t.me/nolonday</a>
 </p>
 
 ---
