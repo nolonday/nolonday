@@ -19,10 +19,12 @@
 
 <h3 align="center" style="font-size: 26px; color: #b3b3b3;">✧ 𝙈𝙮 𝙫𝙞𝙨𝙪𝙖𝙡 𝙨𝙩𝙤𝙧𝙮</h3>
 <p align="center">
-  <img src="https://i.imgur.com/WyOyONf.jpeg" alt="nolonday portrait 2" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
-  <img src="https://i.imgur.com/XFJohpu.jpeg" alt="nolonday portrait 3" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
-  <img src="https://i.imgur.com/oU3nM1H.jpg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
-  <img src="https://i.imgur.com/L097LJc.jpeg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/E5hEhAb.jpg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/u31NmUq.jpg" alt="nolonday portrait 3" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/exdEGlS.jpg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/zA9i64M.jpg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/dq5CF6O.jpg" alt="nolonday portrait 2" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
+  <img src="https://i.imgur.com/Vl9eCpK.jpg" alt="nolonday portrait 1" width="330" style="border-radius:14px; filter: grayscale(100%); margin: 10px;" />
 </p>
 
 ---
